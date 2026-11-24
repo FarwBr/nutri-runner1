@@ -1,0 +1,44 @@
+# ---- Unity ----
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]ser[Ss]ettings/
+/[Aa]ssets/AssetStoreTools*
+/[Aa]ssets/StreamingAssets/aa.meta
+/[Aa]ssets/StreamingAssets/aa/*
+
+# builds geradas pelo menu Tools > Nutri Runner > Gerar Executavel
+NutriRunner-Build*/
+*.exe
+*_Data/
+
+# ---- arquivos gerados por IDE ----
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ---- sistema ----
+.DS_Store
+Thumbs.db
+*~
+
+# ---- crash reports ----
+sysinfo.txt
+crashlytics-build.properties
