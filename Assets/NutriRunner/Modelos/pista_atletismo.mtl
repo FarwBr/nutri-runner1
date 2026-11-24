@@ -1,0 +1,43 @@
+# cores vindas do baseColorFactor do glTF
+
+newmtl gramado
+Ka 0.000 0.000 0.000
+Kd 0.2000 0.5490 0.2196
+Ks 0.000 0.000 0.000
+d 1.0
+illum 1
+
+newmtl meio_fio
+Ka 0.000 0.000 0.000
+Kd 0.8510 0.8510 0.8510
+Ks 0.000 0.000 0.000
+d 1.0
+illum 1
+
+newmtl pista
+Ka 0.000 0.000 0.000
+Kd 0.7216 0.2196 0.1490
+Ks 0.000 0.000 0.000
+d 1.0
+illum 1
+
+newmtl area_externa
+Ka 0.000 0.000 0.000
+Kd 0.5490 0.5490 0.5490
+Ks 0.000 0.000 0.000
+d 1.0
+illum 1
+
+newmtl linhas_brancas
+Ka 0.000 0.000 0.000
+Kd 0.9804 0.9804 0.9804
+Ks 0.000 0.000 0.000
+d 1.0
+illum 1
+
+newmtl chegada_preto
+Ka 0.000 0.000 0.000
+Kd 0.0510 0.0510 0.0510
+Ks 0.000 0.000 0.000
+d 1.0
+illum 1

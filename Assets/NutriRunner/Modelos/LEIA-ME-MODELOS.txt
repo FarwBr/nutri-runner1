@@ -1,0 +1,10 @@
+Esta pasta e onde ficam os .fbx / .obj e as texturas (.png).
+
+Os dois arquivos que vieram junto - pista_atletismo.obj e pista_atletismo.mtl -
+precisam ficar LADO A LADO: e o .mtl que carrega as cores do .obj.
+
+O resto dos modelos (Mannequin_Medium, Rig_Medium_*, Apple, building_A...,
+road_straight, bench, tree...) e a pasta Textures do kit continuam vindo de voce,
+nao estao neste pacote.
+
+Lista completa de nomes reconhecidos: ver LEIA-ME.md, secao "Modelos 3D".
